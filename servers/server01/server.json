@@ -1,0 +1,8 @@
+{
+  "node_name": "consulserver01",
+  "server": true,
+  "bind_addr": "172.21.0.3",
+  "bootstrap_expect": 3,
+  "data_dir": "/tmp",
+  "encrypt": "*consul keygen*"
+}
